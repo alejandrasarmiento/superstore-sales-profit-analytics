@@ -2,6 +2,8 @@
 
 ### Interactive Business Performance Dashboard | Tableau Public
 
+![Superstore Analytics Dashboard](dashboard-preview.png)
+
 ## Project Overview
 
 This project analyzes sales performance and profitability using the Superstore dataset. The objective is to transform transactional data into an interactive executive dashboard that supports business performance monitoring and identifies opportunities for improvement.
