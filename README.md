@@ -2,7 +2,7 @@
 
 ### Interactive Business Performance Dashboard | Tableau Public
 
-![Superstore Analytics Dashboard](dashboard-preview.png)
+![Superstore Analytics Dashboard](dashboard-preview.png.png)
 
 ## Project Overview
 
